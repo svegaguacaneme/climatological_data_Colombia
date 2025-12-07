@@ -1,0 +1,28 @@
+﻿﻿Codigo,Nombre estacion,Variable,Fecha inicio,Fecha fin,Latitud,Longitud,Departamento,Municipio,Area hidrografica
+29045190,AEROPUERTO E. CORTISSOZ - AUT [29045190],Día pluviométrico,1941-01-01,2019-09-29,10.917778,-74.779722,Atlantico,Soledad,Magdalena Cauca
+29040290,CAMPANOS LOS [29040290],Día pluviométrico,1978-09-01,2025-01-31,10.557778,-74.971778,Atlantico,Sabanalarga,Magdalena Cauca
+29040250,CAMPO DE LA CRUZ [29040250],Día pluviométrico,1978-09-19,2025-02-14,10.376639,-74.888417,Atlantico,Campo De La Cruz,Magdalena Cauca
+29040260,CANDELARIA [29040260],Día pluviométrico,1978-10-01,2025-02-14,10.455111,-74.886889,Atlantico,Candelaria,Magdalena Cauca
+29030410,CASA DE BOMBAS [29030410],Día pluviométrico,1981-02-01,2024-10-31,10.408333,-75.127222,Atlantico,Repelón,Magdalena Cauca
+29045120,FLORES LAS [29045120],Día pluviométrico,1980-07-15,2015-07-30,11.04,-74.820833,Atlantico,Barranquilla,Amazonas
+14010020,HIBACHARO [14010020],Día pluviométrico,1966-01-01,2025-02-14,10.721889,-75.140111,Atlantico,Piojó,Caribe
+29045110,JUAN DE ACOSTA [29045110],Día pluviométrico,1963-11-01,2023-09-30,10.833889,-75.046111,Atlantico,Juan De Acosta,Caribe
+29040200,LEÑA [29040200],Día pluviométrico,1969-06-01,2024-03-06,10.52,-74.89,Atlantico,Candelaria,Magdalena Cauca
+29030270,LOMA GRANDE [29030270],Día pluviométrico,1979-10-01,2024-12-31,10.433833,-75.131583,Atlantico,Repelón,Magdalena Cauca
+29040020,MONTEBELLO [29040020],Día pluviométrico,1990-01-01,2025-02-15,10.7085,-74.907833,Atlantico,Baranoa,Magdalena Cauca
+29035080,NORMAL MANATI - AUT [29035080],Día pluviométrico,1963-10-01,2025-02-15,10.453583,-74.954639,Atlantico,Manatí,Magdalena Cauca
+14010100,PINTADA LA [14010100],Día pluviométrico,1993-01-01,2025-01-31,10.955111,-74.995,Atlantico,Tubará,Caribe
+14010010,PIOJO [14010010],Día pluviométrico,1962-04-12,2025-02-15,10.746111,-75.107972,Atlantico,Piojó,Caribe
+29040080,POLONUEVO [29040080],Día pluviométrico,1959-03-03,2024-09-30,10.779,-74.857917,Atlantico,Polonuevo,Magdalena Cauca
+29040070,PONEDERA [29040070],Día pluviométrico,1941-02-01,2024-09-30,10.641778,-74.770722,Atlantico,Ponedera,Magdalena Cauca
+14010090,PORVENIR EL [14010090],Día pluviométrico,1988-09-01,2023-05-30,10.710222,-75.162278,Atlantico,Piojó,Caribe
+29040230,PUERTO COLOMBIA [29040230],Día pluviométrico,1974-05-01,2025-02-15,10.988333,-74.969667,Atlantico,Puerto Colombia,Magdalena Cauca
+29040300,PUERTO GIRALDO [29040300],Día pluviométrico,1978-09-19,2025-02-15,10.507889,-74.822278,Atlantico,Ponedera,Magdalena Cauca
+29040270,RABON EL HACIENDA [29040270],Día pluviométrico,1978-09-05,2024-12-31,10.386944,-74.962778,Atlantico,Santa Lucia,Magdalena Cauca
+29035200,REPELON - AUT [29035200],Día pluviométrico,1963-09-01,2019-09-30,10.49,-75.126944,Atlantico,Repelón,Magdalena Cauca
+29045000,SABANALARGA - AUT [29045000],Día pluviométrico,1959-03-01,2019-01-18,10.636722,-74.918889,Atlantico,Sabanalarga,Magdalena Cauca
+29030140,SAN JOSE [29030140],Día pluviométrico,1990-01-01,2024-12-31,10.439444,-75.108333,Atlantico,Luruaco,Magdalena Cauca
+29040310,SAN PEDRITO ALERTA [29040310],Día pluviométrico,1978-09-13,2025-02-15,10.277889,-74.920222,Atlantico,Suan,Magdalena Cauca
+29040240,USIACURI [29040240],Día pluviométrico,1964-02-01,2025-02-15,10.744722,-74.980556,Atlantico,Usiacurí,Magdalena Cauca
+29045190,AEROPUERTO E. CORTISSOZ - AUT [29045190],Temperatura mínima diaria,1978-01-01,2021-07-31,10.917778,-74.779722,Atlantico,Soledad,Magdalena Cauca
+29045190,AEROPUERTO E. CORTISSOZ - AUT [29045190],Temperatura máxima diaria,1974-07-01,2021-07-30,10.917778,-74.779722,Atlantico,Soledad,Magdalena Cauca
