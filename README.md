@@ -16,7 +16,7 @@ py library/data_processor.py
 ```
 6. Once the algorithm is complete, you will find a single file for each station in the “data” folder with the data formatted in date and value columns. You will also find a summary in the “output” folder with the processed stations and important additional information such as the start and end dates of values, coordinates, municipality, and department of each station.
 
-**Note:** The repository contains, as an example, raw precipitation data from station AEROPUERTO E. CORTISSOZ - AUT [29045190].
+**Note:** The repository contains, as an example, raw IDEAM precipitation data from station AEROPUERTO E. CORTISSOZ - AUT [29045190].
 
 ## How to contribute
 
